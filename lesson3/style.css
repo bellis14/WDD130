@@ -1,0 +1,18 @@
+.blueText {
+    color: blue;
+    width: 80%;
+    margin: 0 auto;
+}
+
+#wednesdayText {
+    font-size: 300%;
+    color: purple;
+}
+
+/* An id is written using # while a class is written
+with . before it. An id will always override a class. 
+An id is only for one thing. Don't use an id unless you are 
+using javascript
+
+margin-top: 0px;
+*/
